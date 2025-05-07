@@ -62,13 +62,18 @@ https://cors-anywhere.herokuapp.com/corsdemo
 
 ## 📦 Estrutura de arquivos
 
+├── img 
+
+    └── image.png 
+
 ├── index.html 
+
+├── README.md 
 
 ├── script.js 
 
-└── style/ 
- 
 └── style.css 
+
 
 
 ---
