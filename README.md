@@ -56,7 +56,6 @@ https://cors-anywhere.herokuapp.com/corsdemo
 2. Clique no botão `Request temporary access to the demo server`.
 3. Após isso, recarregue a página local.
 
-> **Atenção:** o `cors-anywhere` é uma solução temporária apenas para testes e estudos. Para produção, é recomendado criar um proxy próprio ou backend intermediário.
 
 ---
 
