@@ -2,7 +2,7 @@
 
 Este projeto é uma página simples em HTML, CSS e JavaScript que consome a API pública da Coinext para exibir os preços atualizados de criptomoedas como Bitcoin (BTC), Litecoin (LTC) e Ethereum (ETH).
 
-<img src="image.png" alt="Exemplo imagem">
+<img src="/img/image.png" alt="Exemplo imagem">
 ---
 
 ## 🚀 Como executar o projeto localmente
