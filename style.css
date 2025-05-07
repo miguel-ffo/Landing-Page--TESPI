@@ -22,7 +22,7 @@ h1 {
 
 /* Botões */
 button {
-    background-color: #3498db;
+    background-color: #048a47;
     color: white;
     border: none;
     padding: 12px 20px;
@@ -34,7 +34,7 @@ button {
 }
 
 button:hover {
-    background-color: #2980b9;
+    background-color: #02e473;
 }
 
 /* Resultado */
@@ -55,4 +55,49 @@ button:hover {
 #resultado p {
     font-size: 18px;
     margin: 5px 0;
+}
+
+#github a {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    margin: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+}
+
+#repo {
+    margin: 40px;
+
+}
+#repo a{
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+}
+
+#linkedin {
+    margin: 40px;
+
+}
+#linkedin a{
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
 }
