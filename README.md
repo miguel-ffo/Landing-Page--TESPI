@@ -62,10 +62,13 @@ https://cors-anywhere.herokuapp.com/corsdemo
 
 ## 📦 Estrutura de arquivos
 
-├── index.html
-├── script.js
-└── style/
-└── style.css
+├── index.html 
+
+├── script.js 
+
+└── style/ 
+ 
+└── style.css 
 
 
 ---
